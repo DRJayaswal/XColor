@@ -30,17 +30,7 @@ To get started with XColor, follow these steps:
 3. **Open in Xcode**:
    Open the `.xcworkspace` file in Xcode to start building and running the app.
 
-## Usage
-
-Refer to the [documentation](link-to-documentation) for detailed instructions on how to integrate and use XColor in your projects.
-
-## Contributing
-
-We welcome contributions from the community. Please read our [contribution guidelines](link-to-contribution-guidelines) before submitting a pull request.
-
-## License
-
-XColor is licensed under the [MIT License](link-to-license).
+Thanks & If you like it please "Star" us
 
 ---
 
